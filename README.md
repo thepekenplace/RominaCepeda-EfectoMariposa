@@ -56,3 +56,7 @@ Este proyecto está orientado al público interesado en renovar o mantener sus h
 
 ![Logo](/LogoEfctoMariposa.jpeg)
 
+## Figma
+
+[Link de Figma](https://www.figma.com/file/5W1NSCanuCv0LGimu1sMq3/FIGMA---EfectoMariposa?node-id=4%3A508)
+
